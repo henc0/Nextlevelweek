@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "NLW",
+    "slug": "NLW",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.alvaroico.nextlevelweek",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.alvaroico.nextlevelweek",
+      "versionCode": 1
+    }
+  }
+}
