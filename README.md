@@ -1,5 +1,5 @@
 <h1 align="center"><img src="./logo.png" alt="Ecoleta" /></h1>
-<p align="center">Project develop in Next Level Week #01 Code Booster</p>
+<p align="center">Project develop in Next Level Week</p>
 <p align="center">
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
@@ -37,7 +37,7 @@ This project includes: Server-API / Web App / Mobile App
 Clone Project
 
 ```git
-git clone https://github.com/henc0/nextlevelweek.git
+git clone https://github.com/henc0/Nextlevelweek.git
 ```
 
 API
